@@ -1,0 +1,12 @@
+{
+    "name": "hashbyte/bmi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Veenit Chauhan",
+            "email": "veenitchauhan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
